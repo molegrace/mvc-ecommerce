@@ -1,5 +1,5 @@
 <?php
-
+ 
 class Dbhandler
 {
   private $host;
